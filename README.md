@@ -4,4 +4,4 @@
 
 - Created a custom scaler to standardize Numerical Features and applied Backward Elimination to the Logistic regression model.
 
-- Executed an SQL query from python, moved data from python to SQL, and analyzed the obtained Data in Tableau.
+- Executed an SQL query from python, moved data from python to SQL, and analyzed the obtained Data.
